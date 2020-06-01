@@ -5,7 +5,7 @@
 }
 
 body {
-    background: var(--blue);
+    background: var(--l-blue);
     color: var(--white);
 }
 
@@ -148,6 +148,14 @@ nav {
 }
 
 .inner-two {
+    background: var(--l-blue);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7);
+    border-radius: 0 0 .5rem .5rem;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.inner-three {
     background: var(--l-blue);
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7);
     border-radius: 0 0 .5rem .5rem;
