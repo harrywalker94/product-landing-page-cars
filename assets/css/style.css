@@ -222,7 +222,7 @@ nav {
   }
   .columns .columns__content {
     flex-direction: column;
-    margin-top: 10rem;
+    margin-top: 15rem;
   }
   .column-one {
     width: 100%;
