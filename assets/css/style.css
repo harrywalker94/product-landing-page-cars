@@ -222,22 +222,25 @@ nav {
   }
   .columns .columns__content {
     flex-direction: column;
-    margin-top: 15rem;
+    margin-top: 19rem;
   }
   .column-one {
     width: 100%;
     font-size: 1.6rem;
     background: none;
+    padding: 2rem;
   }
   .column-two {
     width: 100%;
     font-size: 1.6rem;
     background: none;
+    padding: 2rem;
   }
   .column-three {
     width: 100%;
     font-size: 1.6rem;
     background: none;
+    padding: 2rem;
   }
   .col-img img {
     height: 8rem;
